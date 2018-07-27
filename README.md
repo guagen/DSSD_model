@@ -3,4 +3,4 @@
 使用的时候把相关的文件给替换就可以跑demo了，该模型是我自己训练的一个dssd模型，321的图片大小，用的resnet101，在voc2007数据集上训练，一共20类。准确率为74.5%。
 模型请转到百度云下载~~~
 json：https://pan.baidu.com/s/1aGRvyWWWqwYNNDa8vXQeZg
-params：
+params：https://pan.baidu.com/s/19n1piaTeFgUPO0SHUDb0Zg
